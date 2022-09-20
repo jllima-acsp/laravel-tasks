@@ -15,6 +15,7 @@ return [
     |
     */
 
+    
     'default' => env('DB_CONNECTION', 'mysql'),
 
     /*
@@ -30,8 +31,9 @@ return [
     | All database work in Laravel is done through the PHP PDO facilities
     | so make sure you have the driver for your particular database of
     | choice installed on your machine before you begin development.
-    |
+    | changed this line
     */
+
 
     'connections' => [
 
